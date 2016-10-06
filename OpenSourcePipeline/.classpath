@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_10">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/gurleen_singh/.m2/repository/junit/junit/4.11/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gurleen_singh/.m2/repository/org/seleniumhq/selenium/selenium-htmlunit-driver/2.39.0/selenium-htmlunit-driver-2.39.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gurleen_singh/.m2/repository/org/testng/testng/6.3.1/testng-6.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gurleen_singh/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/2.45.0/selenium-chrome-driver-2.45.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gurleen_singh/.m2/repository/org/seleniumhq/selenium/selenium-java/2.39.0/selenium-java-2.39.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gurleen_singh/.m2/repository/org/seleniumhq/selenium/selenium-common/2.0a7/selenium-common-2.0a7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gurleen_singh/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/2.45.0/selenium-remote-driver-2.45.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gurleen_singh/.m2/repository/org/jbehave/jbehave-maven-plugin/3.9.5/jbehave-maven-plugin-3.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gurleen_singh/.m2/repository/org/jbehave/jbehave-core/3.9.5/jbehave-core-3.9.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/gurleen_singh/.m2/repository/com/thoughtworks/paranamer/paranamer/2.4.1/paranamer-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gurleen_singh/.m2/repository/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gurleen_singh/Downloads/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gurleen_singh/.m2/repository/org/seleniumhq/selenium/selenium-api/2.45.0/selenium-api-2.45.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gurleen_singh/Downloads/htmlunit-2.9.jar.zip"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
